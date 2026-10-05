@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+.env
+.env.*
+!.env.sample.change
+config.env
+logs/
+coverage/
+tmp/
+IFT_Level2-Authentication (M4C4)/
