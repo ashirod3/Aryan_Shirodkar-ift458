@@ -70,3 +70,7 @@ What it deliberately still gets wrong or leaves out:
 - `npm test` checks anonymous rejection across resource operations, authenticated CRUD, invalid and expired credentials, deleted users, password handling, and logging.
 
 Start with `Assignment instructions/START-HERE.md` and the Level 2 student assignment. The folder also includes the non-repudiation and token verification guide, Swagger reference, and Level 1 background materials.
+
+## Module 5 Activity 1
+Practicing Git in VS Code: clone, edit, stage, commit, push.
+Edited by Aryan Shirodkar on October 24, 2026.
